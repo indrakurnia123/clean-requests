@@ -1,0 +1,20 @@
+{
+    "name": "indra/clean-requests",
+    "description": "trim and strip_tags array automatically",
+    "type": "library",
+    "require": {
+        "php": ">=7.4"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Repository\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "indrakurnia123",
+            "email": "indrakurnia768@gmail.com"
+        }
+    ]
+}
