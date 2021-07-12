@@ -1,6 +1,6 @@
 <?php
 
-namespace Repository;
+namespace Library\Repository;
 
 class CleanRequests{
 	public static function clean(array $requests):array
